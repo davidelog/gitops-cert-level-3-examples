@@ -10,7 +10,7 @@ spec:
   - pullRequest:
       github:
         owner: davidelog
-        repo: gitops-cert-level-3-examples
+        repo: gitops-cert-level-3-examples 
       requeueAfterSeconds: 180
   template:
     metadata:
